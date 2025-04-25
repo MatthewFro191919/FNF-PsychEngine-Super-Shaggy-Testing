@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"mix-up",
+			"shaggy",
+			[
+				51, 
+				114,
+				74
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "outside",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"shaggy",
+		"bf",
+		"gf"
+	],
+	"storyName": "mix-up fan-chart",
+	"weekName": "Week1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
