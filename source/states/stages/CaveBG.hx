@@ -144,7 +144,7 @@ class CaveBG extends BaseStage {
 
     // --- Translated Lua Functions ---
 
-    public static function create():Void {
+    override function create():Void {
         bg = sprite_load("cavebg/bg");
         offset_setby_fraction(bg, 0.5, 0.5);
         super_bg = sprite_load("cavebg/super_bg");
